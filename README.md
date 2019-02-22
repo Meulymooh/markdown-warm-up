@@ -9,7 +9,6 @@
 
 ## *Updates*
 
-
 * No regular updates
 * Last update February 27th, 2005
 
@@ -36,3 +35,8 @@ No.
 1. The space background
 2. The font colors
 3. The menu
+
+## *Contributors*
+
+| Bert | Emilie | 
+| BeCode | BeCode | 
