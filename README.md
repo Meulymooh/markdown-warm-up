@@ -35,8 +35,3 @@ No.
 1. The space background
 2. The font colors
 3. The menu
-
-## *Contributors*
-
-| Bert | Emilie | 
-| BeCode | BeCode | 
