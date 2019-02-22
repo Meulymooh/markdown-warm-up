@@ -1,20 +1,20 @@
-# Group Assignement - Markdown
+# **Group Assignement - Markdown**
 
-## The website
+## *The website*
 
-1. URL: http://www.futuro-house.net/
-2. Name: **Futuro-House**
+* URL: http://www.futuro-house.net/
+* Name: **Futuro-House**
 
-## Updates
+## *Updates*
 
-1. No regular updates
-2. Last update February 27th, 2005
+* No regular updates
+* Last update February 27th, 2005
 
-## How we found it
+## *How we found it*
 
 Via Google "Bad websites"
 
-## Why a makeover?
+## *Why a makeover?*
 
 1. The overall layout is horrible
 2. The colours hurt your eyes
@@ -24,11 +24,11 @@ Via Google "Bad websites"
 6. The space background is _so 90s_!
 7. The menu is too small and not clear
 
-## Social media
+## *Social media*
 
 No.
 
-## Things to change first
+## *Things to change first*
 
 1. The space background
 2. The font colors
