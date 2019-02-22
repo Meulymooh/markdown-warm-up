@@ -1,4 +1,4 @@
-# **Group Assignement - Markdown**
+# <center>**Group Assignement - Markdown**</center>
 
 ## *The website*
 
