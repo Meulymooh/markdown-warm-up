@@ -11,6 +11,7 @@
 
 * No regular updates
 * Last update February 27th, 2005
+* New website in 2011 but still looks like crap
 
 ## *How we found it*
 
