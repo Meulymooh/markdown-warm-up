@@ -5,7 +5,9 @@
 * URL: http://www.futuro-house.net/
 * Name: **Futuro-House**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IvAd1e5_AjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=IvAd1e5_AjE
+" target="_blank"><ihttps://www.inexhibit.com/wp-content/uploads/2017/03/Futuro-House-Suuonen-Central-Saint-Martins-London-01.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## *Updates*
 
