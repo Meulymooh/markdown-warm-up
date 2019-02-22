@@ -3,7 +3,7 @@
 ## The website
 
 1. URL: http://www.futuro-house.net/
-2. Name: Futuro-House
+2. Name: **Futuro-House**
 
 ## Updates
 
@@ -21,7 +21,7 @@ Via Google "Bad websites"
 3. The Flash animations are ugly
 4. The banner is old-fasioned
 5. The fonts and font colors are gaudy
-6. The space background is so 90s!
+6. The space background is _so 90s_!
 7. The menu is too small and not clear
 
 ## Social media
