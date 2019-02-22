@@ -1,4 +1,4 @@
-# **Group Assignement - Markdown**
+# <p align="center">**Group Assignement - Markdown**
 
 ## *The website*
 
@@ -6,9 +6,6 @@
 * Name: **Futuro-House**
 
 ## *Updates*
-
-Last update | Monty | Year
-When | February | 2005
 
 
 * No regular updates
